@@ -72,7 +72,7 @@ Outside that: chess, football, and reading about how large systems fail.
 
 ## Contact
 
-**Email** — [fortunecodec@gmail.com](mailto:abdallah.hosnicv@gmail.com) &nbsp;·&nbsp;
+**Email** — [abdallah.hosnicv@gmail.com](mailto:abdallah.hosnicv@gmail.com) &nbsp;·&nbsp;
 
 <!-- Add your LinkedIn once ready, then uncomment and fill in the handle:
 &nbsp;·&nbsp; **LinkedIn** — [Abdallah Hosni](https://www.linkedin.com/in/YOUR-HANDLE/)
