@@ -49,11 +49,7 @@ Built as a full production-shaped system rather than a notebook: API, database, 
 
 ## Stack
 
-**AI & ML** &nbsp; <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=5FD0F5&labelColor=0D1117" alt="Python"> <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=E23636&labelColor=0D1117" alt="PyTorch"> <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=5FD0F5&labelColor=0D1117" alt="LangChain"> <img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=E23636&labelColor=0D1117" alt="OpenCV"> <img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=5FD0F5&labelColor=0D1117" alt="Gemini"> <img src="https://img.shields.io/badge/Azure_AI-0D1117?style=flat-square&logo=microsoftazure&logoColor=5FD0F5&labelColor=0D1117" alt="Azure AI">
-
-**Backend & Data** &nbsp; <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=5FD0F5&labelColor=0D1117" alt="FastAPI"> <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=5FD0F5&labelColor=0D1117" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=E23636&labelColor=0D1117" alt="Redis"> <img src="https://img.shields.io/badge/Neo4j-0D1117?style=flat-square&logo=neo4j&logoColor=5FD0F5&labelColor=0D1117" alt="Neo4j"> <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=5FD0F5&labelColor=0D1117" alt="Docker">
-
-**Interfaces** &nbsp; <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=5FD0F5&labelColor=0D1117" alt="TypeScript"> <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=5FD0F5&labelColor=0D1117" alt="React"> <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=F2F6FC&labelColor=0D1117" alt="Next.js"> <img src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=E23636&labelColor=0D1117" alt="Streamlit">
+<img src="assets/stack.svg" alt="Stack. AI &amp; ML: Python, PyTorch, LangChain, OpenCV, Gemini, Azure AI. Backend &amp; data: FastAPI, PostgreSQL, Redis, Neo4j, Docker. Interfaces: TypeScript, React, Next.js, Streamlit." width="860">
 
 <div align="center">
 <br>
@@ -76,14 +72,10 @@ Outside that: chess, football, and reading about how large systems fail.
 
 ## Contact
 
-<a href="mailto:fortunecodec@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=E23636&labelColor=0D1117" alt="Email"></a>
-<a href="https://github.com/Abdo1119">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=F2F6FC&labelColor=0D1117" alt="GitHub"></a>
+**Email** — [fortunecodec@gmail.com](mailto:fortunecodec@gmail.com) &nbsp;·&nbsp; **Live demo** — [safe-text-to-sql](https://safe-text-to-sql-jopyjpvxd2y2cgvhv63zrn.streamlit.app/)
 
-<!-- Add your LinkedIn once ready, then uncomment:
-<a href="https://www.linkedin.com/in/YOUR-HANDLE/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=5FD0F5&labelColor=0D1117" alt="LinkedIn"></a>
+<!-- Add your LinkedIn once ready, then uncomment and fill in the handle:
+&nbsp;·&nbsp; **LinkedIn** — [Abdallah Hosni](https://www.linkedin.com/in/YOUR-HANDLE/)
 -->
 
 Open to AI engineering roles and freelance work on production LLM, RAG, and computer-vision systems.
