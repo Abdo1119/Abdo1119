@@ -49,29 +49,11 @@ Built as a full production-shaped system rather than a notebook: API, database, 
 
 ## Stack
 
-**AI & ML**
-<br>
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=5FD0F5&labelColor=0D1117)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=E23636&labelColor=0D1117)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=5FD0F5&labelColor=0D1117)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=E23636&labelColor=0D1117)
-![Gemini](https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=5FD0F5&labelColor=0D1117)
-![Azure AI](https://img.shields.io/badge/Azure_AI-0D1117?style=flat-square&logo=microsoftazure&logoColor=5FD0F5&labelColor=0D1117)
+**AI & ML** &nbsp; <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=5FD0F5&labelColor=0D1117" alt="Python"> <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=E23636&labelColor=0D1117" alt="PyTorch"> <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=5FD0F5&labelColor=0D1117" alt="LangChain"> <img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=E23636&labelColor=0D1117" alt="OpenCV"> <img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=5FD0F5&labelColor=0D1117" alt="Gemini"> <img src="https://img.shields.io/badge/Azure_AI-0D1117?style=flat-square&logo=microsoftazure&logoColor=5FD0F5&labelColor=0D1117" alt="Azure AI">
 
-**Backend & Data**
-<br>
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=5FD0F5&labelColor=0D1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=5FD0F5&labelColor=0D1117)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=E23636&labelColor=0D1117)
-![Neo4j](https://img.shields.io/badge/Neo4j-0D1117?style=flat-square&logo=neo4j&logoColor=5FD0F5&labelColor=0D1117)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=5FD0F5&labelColor=0D1117)
+**Backend & Data** &nbsp; <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=5FD0F5&labelColor=0D1117" alt="FastAPI"> <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=5FD0F5&labelColor=0D1117" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=E23636&labelColor=0D1117" alt="Redis"> <img src="https://img.shields.io/badge/Neo4j-0D1117?style=flat-square&logo=neo4j&logoColor=5FD0F5&labelColor=0D1117" alt="Neo4j"> <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=5FD0F5&labelColor=0D1117" alt="Docker">
 
-**Interfaces**
-<br>
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=5FD0F5&labelColor=0D1117)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=5FD0F5&labelColor=0D1117)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=F2F6FC&labelColor=0D1117)
-![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=E23636&labelColor=0D1117)
+**Interfaces** &nbsp; <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=5FD0F5&labelColor=0D1117" alt="TypeScript"> <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=5FD0F5&labelColor=0D1117" alt="React"> <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=F2F6FC&labelColor=0D1117" alt="Next.js"> <img src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=E23636&labelColor=0D1117" alt="Streamlit">
 
 <div align="center">
 <br>
